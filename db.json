@@ -1,0 +1,163 @@
+{
+    "deuses":
+[
+    {
+        "id": 0,
+        "nome": "Zeus"
+    },
+    {
+        "id": 1,
+        "nome": "Atena"
+    },
+    {
+        "id": 2,
+        "nome": "Hermes"
+    },
+    {
+        "id": 3,
+        "nome": "Deméter"
+    }
+],
+  	"armas":
+[
+    {
+        "id": 0,
+        "nome": "Raio"
+    },
+    {
+        "id": 1,
+        "nome": "Cetro"
+    },
+    {
+        "id": 2,
+        "nome": "Caduceu"
+    },
+    {
+        "id": 3,
+        "nome": "Foice"
+    }
+],
+	"letras":
+[
+    {
+        "id": 0,
+        "nome": "a",
+        "valor": 1
+    },
+    {
+        "id": 1,
+        "nome": "b",
+        "valor": 2
+    },
+    {
+        "id": 2,
+        "nome": "c",
+        "valor": 3
+    },
+    {
+        "id": 3,
+        "nome": "d",
+        "valor": 4
+    },
+    {
+        "id": 5,
+        "nome": "f",
+        "valor": 6
+    },
+    {
+        "id": 6,
+        "nome": "g",
+        "valor": 7
+    },
+    {
+        "id": 7,
+        "nome": "h",
+        "valor": 8
+    },
+    {
+        "id": 8,
+        "nome": "i",
+        "valor": 9
+    },
+    {
+        "id": 9,
+        "nome": "j",
+        "valor": 10
+    },
+    {
+        "id": 11,
+        "nome": "l",
+        "valor": 12
+    },
+    {
+        "id": 12,
+        "nome": "m",
+        "valor": 13
+    },
+    {
+        "id": 13,
+        "nome": "n",
+        "valor": 14
+    },
+    {
+        "id": 14,
+        "nome": "o",
+        "valor": 15
+    },
+    {
+        "id": 15,
+        "nome": "p",
+        "valor": 16
+    },
+    {
+        "id": 16,
+        "nome": "q",
+        "valor": 17
+    },
+    {
+        "id": 17,
+        "nome": "r",
+        "valor": 18
+    },
+    {
+        "id": 18,
+        "nome": "s",
+        "valor": 19
+    },
+    {
+        "id": 19,
+        "nome": "t",
+        "valor": 20
+    },
+    {
+        "id": 20,
+        "nome": "u",
+        "valor": 21
+    },
+    {
+        "id": 21,
+        "nome": "v",
+        "valor": 22
+    },
+    {
+        "id": 22,
+        "nome": "w",
+        "valor": 23
+    },
+    {
+        "id": 23,
+        "nome": "x",
+        "valor": 24
+    },
+    {
+        "id": 24,
+        "nome": "y",
+        "valor": 25
+    },
+    {
+        "id": 25,
+        "nome": "z",
+        "valor": 26
+    }
+]
+}
